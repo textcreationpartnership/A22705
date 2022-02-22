@@ -1,0 +1,387 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articles of peace, entercourse, and commerce concluded in the names of the most high and mighty kings, and princes Iames by the grace of God, King of great Britaine, France, and Ireland, defender of the faith, &amp;c. and Philip the third, King of Spaine, &amp;c. and Albertus and Isabella Clara Eugenia, Archdukes of Austrice, Dukes of Burgundie, &amp;c. In a treatie at London the 18. day of August after the old stile in the yeere of our Lord God 1604. Translated out of Latine into English.</title>
+            <title>Treaty. 1604 Aug. 18.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1605</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 44 KB of XML-encoded text transcribed from 23 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22705</idno>
+            <idno type="STC">STC 9211</idno>
+            <idno type="STC">ESTC S100699</idno>
+            <idno type="EEBO-CITATION">99836529</idno>
+            <idno type="PROQUEST">99836529</idno>
+            <idno type="VID">807</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22705)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 807)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1136:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Articles of peace, entercourse, and commerce concluded in the names of the most high and mighty kings, and princes Iames by the grace of God, King of great Britaine, France, and Ireland, defender of the faith, &amp;c. and Philip the third, King of Spaine, &amp;c. and Albertus and Isabella Clara Eugenia, Archdukes of Austrice, Dukes of Burgundie, &amp;c. In a treatie at London the 18. day of August after the old stile in the yeere of our Lord God 1604. Translated out of Latine into English.</title>
+                  <title>Treaty. 1604 Aug. 18.</title>
+                  <author>England and Wales. Treaties, etc. 1604 Aug. 18.</author>
+               </titleStmt>
+               <extent>[48] p.   </extent>
+               <publicationStmt>
+                  <publisher>By Robert Barker, printer to the Kings most excellent Maiestie,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>Anno 1605.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A-F⁴.</note>
+                  <note>The first leaf is blank except for signature-mark "A."; the last leaf is blank.</note>
+                  <note>Running title reads: Articles of the treatie.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Foreign relations --  Spain --  Early works to 1800.</term>
+               <term>Great Britain --  Commerce --  Netherlands --  Early works to 1800.</term>
+               <term>Spain --  Foreign relations --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:807:1" rendition="simple:additions"/>
+            <pb facs="tcp:807:1" rendition="simple:additions"/>
+            <p>ARTICLES OF PEACE, ENTER<g ref="char:EOLhyphen"/>COVRSE, AND Commerce, Concluded in the names of the moſt high and mighty Kings, and Princes IAMES by the grace of GOD, King of great <hi>Britaine, France, and Ireland, defender of the faith, &amp;c.</hi> And <hi>Philip</hi> the third, King of Spaine, &amp;c. And <hi>Albertus</hi> and <hi>Iſabella Clara Eugenia, Archdukes of Austrice, Dukes of Burgundie, &amp;c.</hi> In a Treatie at London the 18. day of Auguſt after the old Stile in the yeere of our Lord God 1604. <hi>¶ Tranſlated out of Latine into Engliſh.</hi>
+            </p>
+            <p>IMPRINTED AT LON<g ref="char:EOLhyphen"/>don by <hi>Robert Barker,</hi> Printer to the Kings <hi>most Excellent Maiestie.</hi> ANNO 1605.</p>
+         </div>
+         <div type="frontispiece">
+            <pb facs="tcp:807:2"/>
+            <p>
+               <figure>
+                  <figDesc>blazon or coat of arms of the British royal family</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="list_of_signatories">
+            <pb facs="tcp:807:2"/>
+            <list>
+               <head>¶ The Commiſsioners for the moſt renowned King of great BRITAINE, &amp;c.</head>
+               <item>
+                  <hi>
+                     <seg rend="decorInit">T</seg>HOMAS</hi> Earle of Dor<g ref="char:EOLhyphen"/>ſet, Baron of Buckhurſt, high Treaſurer of Eng<g ref="char:EOLhyphen"/>land.</item>
+               <item>
+                  <hi>CHARLES</hi> Earle of Not<g ref="char:EOLhyphen"/>tingham, Baron Howard of Ef<g ref="char:EOLhyphen"/>fingham, chiefe Iuſtice, and Juſtice itinerant of all Forreſts on this ſide Trent, high Admirall of England, and Captaine generall of the Na<g ref="char:EOLhyphen"/>uies, and Seas of England, Jre<g ref="char:EOLhyphen"/>land, and the Jles, and Dominions thereof.</item>
+               <pb facs="tcp:807:3"/>
+               <item>
+                  <hi>CHARLES</hi> Earle of Deuon<g ref="char:EOLhyphen"/>ſhire, Baron of Mountioy, Lieute<g ref="char:EOLhyphen"/>nant in the Kingdome of Jreland, Maſter of the Ordinance, Gouer<g ref="char:EOLhyphen"/>nour of the Towne, Jland, &amp; Caſtle of Porteſmouth, <hi>Knights of the moſt honourable order of the Garter.</hi>
+               </item>
+               <item>
+                  <hi>HENRY</hi> Earle of Northamp<g ref="char:EOLhyphen"/>ton, Lord Howard of Marnehill, Lord Warden, and Admirall of the Cinque Ports.</item>
+               <item>
+                  <hi>ROBERT</hi> Lord <g ref="char:V">Ʋ</g>icount Cran<g ref="char:EOLhyphen"/>borne, Lord Cecill of Eſenden, Prin<g ref="char:EOLhyphen"/>cipall Secretary, Maſter of the Court of Wardes, and Liueries. <hi>All Lords of his Maieſties Priuie Counſell.</hi>
+               </item>
+            </list>
+            <pb facs="tcp:807:3"/>
+            <list>
+               <head>¶ Commiſsioners for the King of Spaine, &amp;c.</head>
+               <item>
+                  <hi>
+                     <seg rend="decorInit">I</seg>OHN DE VELAS<g ref="char:EOLhyphen"/>CO</hi> Conſtable of Caſtile, and Legion, Duke of the Citie of Frias, Earle of Haro, Lord of the Townes of <g ref="char:V">Ʋ</g>il<g ref="char:EOLhyphen"/>lalpand, and Pedraça de la Sierra, Lord of the houſe of <g ref="char:V">Ʋ</g>elaſco, and of the ſeuen Jnfants of Lara, great Chamberlaine vnto <hi>PHILIP</hi> the Third, King of Spaine, &amp;c. Coun<g ref="char:EOLhyphen"/>ſeller of State and Warre, Preſident of Jtalie.</item>
+               <item>
+                  <hi>IOHN BAPTISTA DE TASSIS,</hi> Earle of <g ref="char:V">Ʋ</g>illa Mediana, Gentleman of the Kings Chamber, and Postmaster generall in the King<g ref="char:EOLhyphen"/>doms &amp; dominions of the ſaid King.</item>
+               <pb facs="tcp:807:4"/>
+               <item>
+                  <hi>ALEXANDER ROVI<g ref="char:EOLhyphen"/>DIVS</hi> Profeſſor of the Law in the Colledge of Millaine, and Senator of the Prouince of Millaine.</item>
+            </list>
+            <list>
+               <head>¶ Commiſsioners for the Archdukes.</head>
+               <item>
+                  <hi>
+                     <seg rend="decorInit">C</seg>HARLES</hi> Prince, and Counte of Aremberge, Knight of the order of the Golden fleece, Counſeller of State; and Admirall generall to the ſaid Archdukes.</item>
+               <item>
+                  <hi>IOHN RICHARDOT</hi> Knight, Preſident of the Priuie Counſell, and Counſeller of State.</item>
+               <item>
+                  <hi>LODOVIKE VERREI<g ref="char:EOLhyphen"/>KEN</hi> Knight, Principall Secretary, and Audienciarie.</item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="treaty">
+            <pb facs="tcp:807:4"/>
+            <head>
+               <g ref="char:leaf">❧</g> Articles of the Treatie.</head>
+            <div type="articles_of_peace">
+               <div n="1" type="article">
+                  <p>
+                     <seg rend="decorInit">F</seg>Irſt it is con<g ref="char:EOLhyphen"/>cluded, and ac<g ref="char:EOLhyphen"/>corded, that from this day forward, there ſhall bee a good, ſincere, true, firme, and perfect Amitie, League, &amp; Peace, to endure for e<g ref="char:EOLhyphen"/>uer, and inuiolably to bee obſerued and kept, as well by Land as Sea, and freſh wa<g ref="char:EOLhyphen"/>ters, betwixt the moſt renowned King of <hi>England, Scotland, France,</hi> and <hi>Ireland,</hi> &amp;c. And the moſt renowned King of <hi>Spaine,</hi> &amp;c. And the moſt renowned Archdukes
+<pb facs="tcp:807:5"/>of <hi>Auſtrice,</hi> Dukes of <hi>Burgundie,</hi> &amp;c. and their Heires and Succeſſours whomſoeuer, their Kingdomes, Countreys, Dominions, Lands, Peoples, Liegemen, and Subiects now being, or which hereafter ſhall be, of what<g ref="char:EOLhyphen"/>ſoeuer condition, ſtate, or degree they are or may be, ſo as the ſaid Vaſſals and Subiects from henceforth are each of them to fauour other, and to vſe one another with all kind and friendly offices.</p>
+               </div>
+               <div n="2" type="article">
+                  <head>II.</head>
+                  <p>ANd that from henceforth all Hoſtilitie, and enmitie ſhall ceaſe, and all offen<g ref="char:EOLhyphen"/>ces, iniuries or damages which either part (in time of the troubles) hath ſuſteined by the other, ſhalbe taken away and forgotten, in ſuch ſort, as that hereafter neither partie againſt other, for, or vpon occaſion of any damages, offences, depredations or ſpoyles paſt, may pretend any matter, but that there ſhall be a perfect abolition of all and euery of them vntill this preſent day: and that all acti<g ref="char:EOLhyphen"/>ons for the ſame ſhall be held and reputed to be extinguiſhed, excepting onely ſuch depre<g ref="char:EOLhyphen"/>dations
+<pb facs="tcp:807:5"/>as haue beene committed ſince the xxiiij. of April 1603. (becauſe of theſe an ac<g ref="char:EOLhyphen"/>count is to be made:) And each partie ſhall hereafter abſtaine from all depredations, of<g ref="char:EOLhyphen"/>fences, and ſpoiles as well by Sea as Land, and freſh waters, in whatſoeuer the Kingdomes, Dominions, Places, or Gouernments of the other: neither ſhal the aforeſaid Princes con<g ref="char:EOLhyphen"/>ſent, that any of the grieuances before men<g ref="char:EOLhyphen"/>tioned, be done by any of their Vaſſals, Inha<g ref="char:EOLhyphen"/>bitants, or Subiects: and they ſhall alſo cauſe reſtitution to be made of all depredations and ſpoiles which hereafter ſhall be committed, and of the damages growing by meanes thereof.</p>
+               </div>
+               <div n="3" type="article">
+                  <head>III.</head>
+                  <p>ITem, that none of the forenamed Prin<g ref="char:EOLhyphen"/>ces, their Heires, or Succeſſors whoſoeuer, by himfelfe or by any others, ſhall doe, treat, or attempt any thing againſt the other, or againſt their Kingdomes, Lands or Domi<g ref="char:EOLhyphen"/>nions whatſoeuer in any place, on Land or Sea, or in the Ports, or freſh waters, by pre<g ref="char:EOLhyphen"/>tence of any cauſe, or vpon any occaſion; nei<g ref="char:EOLhyphen"/>ther
+<pb facs="tcp:807:6"/>any of them ſhall giue aſsiſtance or con<g ref="char:EOLhyphen"/>ſent vnto any Warre, Counſell, Attempt, or Treaties, had, made, or to be made in the pre<g ref="char:EOLhyphen"/>iudice of either, or againſt the other.</p>
+               </div>
+               <div n="4" type="article">
+                  <head>IIII.</head>
+                  <p>ITem, that neither of the former parties, ſhall themſelues giue, or ſhall conſent to be giuen, by any of their Vaſſals, Subiects, or Inhabitants, aide, fauour, or counſell, directly or indirectly, on Land, Sea, or freſh waters: nor ſhall ſupply and miniſter, nor conſent to be ſupplyed and miniſtred, by their ſaid Vaſ<g ref="char:EOLhyphen"/>ſals, Inhabitants and Subiects, vnto the Ene<g ref="char:EOLhyphen"/>mies or Rebels of either part, of what nature or condition ſoeuer they be, (whether they ſhall inuade the Countreys and Dominions of either of them, or withdraw themſelues from their obedience and ſubiection) any Souldiers, prouiſion of Victuals, Monies, In<g ref="char:EOLhyphen"/>ſtruments of Warre, Munitions, or whatſo<g ref="char:EOLhyphen"/>euer other aide elſe to maintaine Warre.</p>
+               </div>
+               <div n="5" type="article">
+                  <pb facs="tcp:807:6"/>
+                  <head>V.</head>
+                  <p>ANd furthermore, the foreſaid Princes ſhall renounce, as by the tenor of theſe Preſents euery of them hath, and doth renounce, whatſoeuer League, Confedera<g ref="char:EOLhyphen"/>tion, Capitulation, and Intelligence made by what manner ſoeuer, in the preiudice of the one, or the other, which doth or may repugne againſt this Peace, and Concord, and all, and ſinguler the Contents thereof: all which and euery of them, ſo farre as they doe con<g ref="char:EOLhyphen"/>cerne the effect aforeſaid, they ſhall adnull, and make void, and declare to be of no force, or moment.</p>
+               </div>
+               <div n="6" type="article">
+                  <head>VI.</head>
+                  <p>ITem, it is agreed and accorded, that the ſaid moſt renowned Kings, and Arch<g ref="char:EOLhyphen"/>dukes, ſhall take care, that their Subiects ſhall from henceforth abſtaine from all force, and wrong doing, and that they likewiſe ſhall reuoke all Commiſsions, and Letters of Repriſall, and Mart, or otherwiſe conteining Licence to take Prizes, of what condition, or
+<pb facs="tcp:807:7"/>kinde ſoeuer they are, being to the preiudice of the one, or other of the ſaid Princes, or of their Subiects, whether the ſame haue beene giuen, or graunted by them vnto Subiects, or Inhabitants, or vnto Strangers, and ſhall declare the ſame to bee void, and of no force, as by this Treatie of Peace they are declared ſo to be; And whoſoeuer ſhall do any thing to the contrary, he ſhall be puniſhed not on<g ref="char:EOLhyphen"/>ly criminally according to the merit of his of<g ref="char:EOLhyphen"/>fence, but ſhall alſo be compelled to make re<g ref="char:EOLhyphen"/>ſtitution, and ſatisfaction for the loſſes to the parties damnified, requiring the ſame.</p>
+               </div>
+               <div n="7" type="article">
+                  <head>VII.</head>
+                  <p>ITem, as concerning the towns of <hi>Fluſhing, Brill, Ramekins,</hi> and other Forts and places thereunto appertaining, in which the garri<g ref="char:EOLhyphen"/>ſon Souldiers of the renowned King of <hi>Eng<g ref="char:EOLhyphen"/>land, Scotland,</hi> &amp;c. doe now remaine, for as much as the renowned King of <hi>England,</hi> &amp;c. affirmeth that by contracts heretofore made, betweene Queene ELIZABETH of moſt happie memorie, (vnto whom his Maieſtie in his Kingdomes doth ſucceed) and the States
+<pb facs="tcp:807:7"/>of the vnited Prouinces of the low Coun<g ref="char:EOLhyphen"/>treyes, he ſtandeth in ſuch ſort bound, not to redeliuer the ſaid Townes, Forts, and places to any others, then vnto thoſe who deliue<g ref="char:EOLhyphen"/>red the ſame for Caution, as that by the ſaid Contracts, his Maieſties Faith, and Honour, (which he reſolueth religiouſly to keepe to<g ref="char:EOLhyphen"/>wards all perſons) being engaged, it is not free for him now to reſtore thoſe places vnto the Archdukes; yet, in the word of a King, he doeth promiſe to enter into Treatie here<g ref="char:EOLhyphen"/>after with the ſaid States, wherein his Maie<g ref="char:EOLhyphen"/>ſtie will aſſigne a competent time vnto them, to accept and receiue Conditions, agreeable to Iuſtice, and equitie, for a pacification to be had with the moſt renowned Princes his deare Brethren: which if the States ſhall re<g ref="char:EOLhyphen"/>fuſe to accept, his Maieſtie from thenceforth, as being freed from the former Conuentions, will determine of thoſe Townes according as hee ſhall iudge it to bee iuſt, and honou<g ref="char:EOLhyphen"/>rable, wherein the ſaid Princes his louing Brethren, ſhall find, that there ſhall bee no want in him of thoſe good offices which can be expected of a friendly Prince.</p>
+               </div>
+               <div n="8" type="article">
+                  <pb facs="tcp:807:8"/>
+                  <head>VIII.</head>
+                  <p>ITem, that the ſaid moſt renowned King of <hi>England, Scotland, France,</hi> and <hi>Ireland, &amp;c.</hi> will command, as hee ſeriouſly promiſeth ſhall be commanded, that his garriſon Soul<g ref="char:EOLhyphen"/>diers vpon what cauſe or pretext ſoeuer, ſhall not ſerue, ſuccour, victuall, or furniſh with Artillerie, Gunpowder, Bullets, Saltpeter, or any other Munition, or aſsiſtance for Warre, the <hi>Hollanders,</hi> or other enemies of the King of <hi>Spaine,</hi> and the Archdukes: neither that they ſhall giue vnto them Aide, or doe any hoſtile Acte againſt the ſaid King of <hi>Spaine,</hi> and Archdukes, or their Subiects: As alſo on the part of the King of <hi>Spaine,</hi> and the Arch<g ref="char:EOLhyphen"/>dukes, no hoſtile Acte ſhall be committed, or done againſt the ſaid garriſon Souldiers, or againſt the moſt renowned King of <hi>Eng<g ref="char:EOLhyphen"/>land, &amp;c.</hi> or his Subiects.</p>
+               </div>
+               <div n="9" type="article">
+                  <head>IX.</head>
+                  <p>ITtem, it is agreed and accorded, that be<g ref="char:EOLhyphen"/>tweene the moſt renowned King of <hi>Eng<g ref="char:EOLhyphen"/>land, Scotland, &amp;c:</hi> and the moſt renow<g ref="char:EOLhyphen"/>ned
+<pb facs="tcp:807:8"/>King of <hi>Spaine, &amp;c.</hi> and euery of their Vaſſals, Inhabitants, and Subiects, as well by Land, as Sea, and freſh Waters, in all and ſin<g ref="char:EOLhyphen"/>guler their Kingdomes, Dominions, Iſlands, and other Lands, Cities, Townes, Villages, Hauens, &amp; Streights of the ſaid Kingdomes, and Dominions, there be, or may bee free Commerce, in which before the Warres there hath bene Commerce, like, and accor<g ref="char:EOLhyphen"/>ding to the vſe and obſeruance of the ancient Leagues, and Treatiſes, before the Warre, in ſuch ſort, and manner, as that without any ſafeconduct, or other Licence generall, or ſpeciall, the Subiects of the one, or other King may freely, aſwell by Land as by Sea, and freſh Waters, goe, enter, and ſaile, in and to the ſaid Kingdomes, and Dominions, and all the Cities, Hauens, Shores, Sea rodes, and Streights thereof and put themſelues into whatſoeuer Hauens of the ſame, where be<g ref="char:EOLhyphen"/>fore the Warre there hath bene Commerce, like, and according to the vſe, and obſeruance of the ancient Leagues, and Treatiſes before the Warres, with Carriages, Horſes, Bur<g ref="char:EOLhyphen"/>dens, Ships aſwell laden, as to bee laden, to
+<pb facs="tcp:807:9"/>bring in Merchandizes, and there to buy, or ſell as much as they will, and in the ſame pla<g ref="char:EOLhyphen"/>ces vpon iuſt prices to procure, and haue pro<g ref="char:EOLhyphen"/>uiſion of Victuals for their ſuſtenance, and Voyages, and likewiſe as occaſion ſhall re<g ref="char:EOLhyphen"/>quire, to repaire ſuch ſhipping and carriages, as either appertaine vnto them in propertie, or elſe they haue hired or borowed, and from thence alſo with their Merchandizes, Goods, and other commodities whatſoeuer, (the Cu<g ref="char:EOLhyphen"/>ſtomes, and Tolles, as they are preſently ra<g ref="char:EOLhyphen"/>ted according to the Ordinances of the pla<g ref="char:EOLhyphen"/>ces being paid) they may with like freedome depart, and goe to their owne Countreyes, or any other places at their pleaſure without let or impediment.</p>
+               </div>
+               <div n="10" type="article">
+                  <head>X.</head>
+                  <p>ITem, it is likewiſe agreed and accorded, that it may bee lawfull, to haue acceſſe vn<g ref="char:EOLhyphen"/>to the Ports of the ſaid Princes, and there to make ſtay, and from thence with the ſame libertie to depart, not onely with their Ships of Merchandiſes, and burthen, but alſo with other ſhipping furniſhed for Warre, and pre<g ref="char:EOLhyphen"/>pared
+<pb facs="tcp:807:9"/>to withſtand the force of enemies: Whether they ſhall arriue there, either by force of tempeſt, or for repairing their Ships, or for prouiſion of victuals, ſo as they exceed not the number of ſixe, or eight Ships, when they come in of their owne accord, nor that they continue, nor make ſtay in the Hauens, or about the Ports longer then they ſhall haue iuſt cauſe for the repaire of the ſame ſhipping, or for prouiſion of other neceſſa<g ref="char:EOLhyphen"/>ries, leſt they ſhould bee any occaſion of In<g ref="char:EOLhyphen"/>terruption vnto the free Commerce and en<g ref="char:EOLhyphen"/>tercourſe of other friends and Nations in a<g ref="char:EOLhyphen"/>mitie: And whenſoeuer any greater number of Ships of warre then is before ſpecified, ſhal haue occaſion of acceſſe into thoſe Ports, then ſhall it not bee lawfull for them to make any entrance without the priuitie and con<g ref="char:EOLhyphen"/>ſent of the Prince. Prouided alſo that they doe no hoſtile acte, within the ſaid Ports, to the preiudice of the Princes, but demeane themſelues there quietly, as friends and con<g ref="char:EOLhyphen"/>federates, with ſpeciall Caution euer to bee had, that vnder the colour and pretext of Commerce, no warlike aide, prouiſion of
+<pb facs="tcp:807:10"/>victuals, or of armes, or of munition or other ſuch like materials for the Warres, be carried by the Subiects, Vaſſals, or Inhabitants of thoſe Kingdomes, to the commoditie or be<g ref="char:EOLhyphen"/>nefit of the enemies of the one or other King. And whoſoeuer ſhall attempt to the contra<g ref="char:EOLhyphen"/>rie, ſhall bee puniſhed with thoſe ſharpe paines and puniſhments, vſed to be inflicted vpon ſeditious perſons and breakers of Faith and Peace. Prouided alſo, that the Subiects of the one, in the Dominions and Territo<g ref="char:EOLhyphen"/>ries of the other, be not worſe handled, then the naturall Subiects in their ſales and con<g ref="char:EOLhyphen"/>tracts for their Merchandiſes, as wel in reſpect of the priſes, as otherwiſe, but that the Con<g ref="char:EOLhyphen"/>dition of Forreiners be equal and like herein, vnto natural Subiects: Notwithſtanding any Statutes or Cuſtomes to the contrarie.</p>
+               </div>
+               <div n="11" type="article">
+                  <head>XI.</head>
+                  <p>ITem, it is agreed and accorded, that the moſt renowned King of <hi>England, Scotland &amp;c.</hi> ſhall prohibite, and after the confir<g ref="char:EOLhyphen"/>ming of theſe preſent Articles, by Proclama<g ref="char:EOLhyphen"/>tion forthwith prouide, that no one of his
+<pb facs="tcp:807:10"/>Subiects, Inhabitants, or Vaſſals ſhall lade, or carie ouer by any meanes directly, or indi<g ref="char:EOLhyphen"/>rectly in his owne name, or in the name of any others, neither ſhall lend his Ship or o<g ref="char:EOLhyphen"/>ther veſſell for carriage, or vſe his name for the tranſporting or conueying of any Ships, Merchandiſes, Manufactures, or any other thing, out of <hi>Holland,</hi> and <hi>Zeland</hi> into <hi>Spaine,</hi> or other the Kingdomes and Domi<g ref="char:EOLhyphen"/>nions of the King of <hi>Spaine,</hi> or the Arch<g ref="char:EOLhyphen"/>dukes, neither ſhall carrie in his Ships, any <hi>Holland,</hi> or <hi>Zeland</hi> Merchant vnto the ſaid Ports, vpon perill of his Maieſties indignati<g ref="char:EOLhyphen"/>on, and other puniſhments vſually inflicted on the contemners of his Highneſſe com<g ref="char:EOLhyphen"/>mandements. And to the effect that fraude (which through the likeneſſe of Merchan<g ref="char:EOLhyphen"/>diſe might happen) bee the better auoyded: It is alſo prouided in this preſent Article, that the Merchandiſes to be carried, and conuey<g ref="char:EOLhyphen"/>ed out of <hi>England, Scotland,</hi> and <hi>Ireland,</hi> to the Kingdomes and Dominions of the King of <hi>Spaine</hi> and Archdukes, ſhall bee Regiſtred and Sealed with the Seale of the Towne or Citie from whence they ſhall bee laden, and
+<pb facs="tcp:807:11"/>that they being ſo Regiſtred and Sealed, ſhal without any difficultie or queſtion whatſoe<g ref="char:EOLhyphen"/>uer, bee reputed, and held for Engliſh, Scot<g ref="char:EOLhyphen"/>tiſh, and Iriſh Merchandiſes, and ſo reſpec<g ref="char:EOLhyphen"/>tiuely according to the Seale or Marke, bee allowed and admitted: Alwayes excepted, that in caſe of fraude, proofe ſhall be admit<g ref="char:EOLhyphen"/>ted, without ſtay notwithſtanding or let of the courſe or venting of the Merchandiſes in the meane time: And touching ſuch Mer<g ref="char:EOLhyphen"/>chandiſes, as ſhall not be Regiſtred nor Sea<g ref="char:EOLhyphen"/>led, the ſame are to bee Confiſcated and ta<g ref="char:EOLhyphen"/>ken for good Prize: And likewiſe all <hi>Hollan<g ref="char:EOLhyphen"/>ders</hi> and <hi>Zelanders,</hi> which ſhall bee found in the ſame Ships, may alſo bee taken and de<g ref="char:EOLhyphen"/>tained.</p>
+               </div>
+               <div n="12" type="article">
+                  <head>XII.</head>
+                  <p>ITem, it is agreed that Engliſh, Scottiſh, and Iriſh Merchandiſes may be conueyed, and tranſported out of <hi>England, Scotland,</hi> and <hi>Ireland</hi> into <hi>Spaine,</hi> and other of the Kingdomes of the King of <hi>Spaine,</hi> (before mentioned) without the payment of the Im<g ref="char:EOLhyphen"/>poſition of thirtie in the hundred, lately im<g ref="char:EOLhyphen"/>poſed;
+<pb facs="tcp:807:11"/>but paying onely the Cuſtome and Tolles vſually required, before the ſaid Im<g ref="char:EOLhyphen"/>poſition of thirtie in the hundred.</p>
+               </div>
+               <div n="13" type="article">
+                  <head>XIII.</head>
+                  <p>ITem, it is likewiſe agreed, that for the Mer<g ref="char:EOLhyphen"/>chandiſes. which Engliſh, Scottiſh, and Iriſh Merchants ſhall buy in <hi>Spaine,</hi> or o<g ref="char:EOLhyphen"/>ther the Kingdomes of the ſayd King of <hi>Spaine,</hi> and ſhall carrie in their owne Ships, or in Ships hired, or lent vnto them (except as before hath bene ſaid the Ships of <hi>Hollan<g ref="char:EOLhyphen"/>ders</hi> and <hi>Zelanders</hi>) they ſhall pay onely ſuch Tolles as were accuſtomed to bee paide before the Impoſition of thirtie in the hun<g ref="char:EOLhyphen"/>dred, yet ſo as they conuey and carrie the ſame goods and Merchandiſes to the King<g ref="char:EOLhyphen"/>domes of the ſaid moſt renowned King of <hi>England, Scotland &amp;c.</hi> or to the Ports of the Prouinces, being in obedience to the Arch<g ref="char:EOLhyphen"/>dukes. And for the more ſuretie that fraude bee not committed herein, and that the ſaid Merchandiſes bee not tranſported to other places and Kingdomes, and eſpecially into <hi>Holland</hi> or <hi>Zeland,</hi> it is concluded, that the
+<pb facs="tcp:807:12"/>ſaid Merchants ſhall binde themſelues, at the time that they doe lade their Ships in <hi>Spaine,</hi> or in the other Kingdomes and Dominions of the ſaid King of <hi>Spaine</hi> aboue declared, be<g ref="char:EOLhyphen"/>fore the Magiſtrate of the place in which they ſhall lade, to pay the ſaid Impoſition of thir<g ref="char:EOLhyphen"/>tie in the hundred, in caſe they carrie the ſame goods and Merchandiſes to other Do<g ref="char:EOLhyphen"/>minions and Countries: And to obtaine alſo within the ſpace of twelue moneths follow<g ref="char:EOLhyphen"/>ing, a Certificate from the Magiſtrate of the places, where they ſhall diſcharge or vnlade the ſame goods, teſtifying their diſcharge to haue beene either in the Kingdomes and Do<g ref="char:EOLhyphen"/>minions of the King of <hi>England &amp;c.</hi> or in the Ports of the Prouinces vnder the obedience of the ſaid Archdukes: vpon the exhibiting whereof, the Obligations concerning thoſe matters ſhall be deliuered vp, vnto the brin<g ref="char:EOLhyphen"/>gers of the ſame Certificates.</p>
+               </div>
+               <div n="14" type="article">
+                  <head>XIIII.</head>
+                  <p>ANd alſo that the ſayd moſt renowned King of <hi>England, Scotland, France</hi> and <hi>Ireland,</hi> &amp;c. ſhall prohibite ſoone af<g ref="char:EOLhyphen"/>ter
+<pb facs="tcp:807:12"/>the confirming of this accord, that none ſhall exporte any merchandize out of <hi>Spaine,</hi> or other Kingdomes of the King of <hi>Spaine,</hi> to be caried to other places then to his Ma<g ref="char:EOLhyphen"/>ieſties Kingdomes, and the ſayd Portes of <hi>Flanders,</hi> vpon penaltie of confiſcation of all their merchandiſes, to the vſe of the ſaid King of <hi>England,</hi> &amp;c. to be paide into his Ma<g ref="char:EOLhyphen"/>ieſties Exchequer: of which merchandiſes, or the value thereof, one halfe is to bee giuen to the Informer, (the impoſition of thirtie in the hundred being firſt deducted) to bee payed to the Miniſters and Deputies of the King of <hi>Spaine,</hi> and the proofes lawfully re<g ref="char:EOLhyphen"/>ceiued in <hi>Spaine,</hi> and tranſmitted into <hi>Eng<g ref="char:EOLhyphen"/>land</hi> in authenticall fourme, are to bee cre<g ref="char:EOLhyphen"/>dited.</p>
+               </div>
+               <div n="15" type="article">
+                  <head>XV.</head>
+                  <p>ITem, that the Magiſtrates of the ſayde townes or Cities of his Maieſties King<g ref="char:EOLhyphen"/>domes, which ſhall make Certificates of the vnlading of ſhippes, and are to giue te<g ref="char:EOLhyphen"/>ſtimony of the regiſtring of the merchandi<g ref="char:EOLhyphen"/>ſes, ſhal not commit any fraud therein, vnder
+<pb facs="tcp:807:13"/>perill of indignation of the Kings Maieſtie, and paine of loſſe of their offices, and other more grieuous puniſhments at the Kings pleaſure. This declaration being added, that when the King of <hi>Spaine</hi> and Arch<g ref="char:EOLhyphen"/>dukes ſhall agree with the French King, or with any other vpon the laſt Placard of thirty in the hundred, and the Commerce betwixt them be reſtored, then it ſhall bee lawfull to the Subiects of the ſayd moſt re<g ref="char:EOLhyphen"/>nowned King of <hi>England, Scotland,</hi> &amp;c. to tranſport their merchandiſes to the King<g ref="char:EOLhyphen"/>domes and Dominions of him, or them vnto whom Commerce ſhall be reſtored without the payment of thirty in the hundred, but onely paying the Tolles and Cuſtomes vſed and payed before the ſayd impoſition.</p>
+               </div>
+               <div n="16" type="article">
+                  <head>XVI.</head>
+                  <p>THat which hath before been expreſſed, concerning the free Commerce gran<g ref="char:EOLhyphen"/>ted vnto the Subiects of the ſaid renow<g ref="char:EOLhyphen"/>ned kings, is to be vnderſtood to bee like<g ref="char:EOLhyphen"/>wiſe agreed on, for the Subiects of the moſt renowned King &amp; Princes, the king of <hi>Eng<g ref="char:EOLhyphen"/>land,
+<pb facs="tcp:807:13"/>Scotland, France</hi> and <hi>Ireland,</hi> &amp;c. and the Archdukes, to wit, that in all places whatſoe<g ref="char:EOLhyphen"/>uer, their Subiects are bound reciprocally, to reſpect &amp; to fauour ech other, and by mutu<g ref="char:EOLhyphen"/>all kinde offices friendly to intertaine the one the other, and that by land, ſea, and freſh waters, without any ſafe conduct or other licence generall or ſpeciall, they may vnto the ſaide Kingdomes, Dominions, Lands, Villages, Towns, Cities, Sea ſhores, Hauens, Sea rodes whatſoeuer, freely, ſafely, ſecurely, come, enter, ſayle, carie and recarie their mer<g ref="char:EOLhyphen"/>chandiſes, buy, and ſell, remaine, abide, and conuerſe in the ſame, ſo long as it ſhall pleaſe them, any kinde of prouiſion for victuall, and things neceſſary for ſuſtenance, and for voiages at iuſt &amp; reaſonable prices, and there repaire alſo (as occaſion ſhall require) their ſhipping, and cariages, whether the ſame be their owne, or whether they be hired or bor<g ref="char:EOLhyphen"/>rowed: As alſo to depart from thence with like libertie, with merchandiſes, goods, and other things whatſoeuer (the Cuſtomes and Tolles according to the Statutes of thoſe pla<g ref="char:EOLhyphen"/>ces being payd) and to diſpoſe and follow
+<pb facs="tcp:807:14"/>their buſineſſes freely, and to returne at their owne pleaſure, either into their owne Coun<g ref="char:EOLhyphen"/>treys, or to any other place, without any impediment or let, ſo as the Subiects of the moſt renowned King of <hi>England,</hi> &amp;c. vſe not the ſhipping of the Hollanders, or the vnited Prouinces, and bring not into the Prouinces of the Archdukes any of the manufactures of <hi>Holland,</hi> or of the vnited Prouinces bought whereſoeuer, neither any other thing, for which there was paid in <hi>Holland</hi> any tribute, nor that they tranſport any thing from the Archdukes Prouinces, vnto them of thoſe Prouinces vntill a pacification be accorded: Nor that they receiue any the goods or Hol<g ref="char:EOLhyphen"/>landers, or of thoſe other places vnited into their ſhips, nor truſt any of their owne goods in the ſhips of Hollanders, nor fraudulently by lending their names, colour the goods of any Hollander, or other of the vnited Prouin<g ref="char:EOLhyphen"/>ces: for that if any thing be committed to the contrary, and the ſame be found, it ſhall bee held for iuſt and lawfull Price.</p>
+               </div>
+               <div n="17" type="article">
+                  <pb facs="tcp:807:14"/>
+                  <head>XVII.</head>
+                  <p>ANd the aforeſaid Prouiſoes are not only to bee vnderſtood of ſhips laden or to be laden in cauſe of Commerce, but alſo of ſhippes of Warre which the ſaid Princes haue or ſhall haue armed to repreſſe the At<g ref="char:EOLhyphen"/>tempts of their Enemies: inſomuch as that it may be lawfull for ſuch Ships of warre, not exceeding the number before mentioned, if they happen to be conſtrained either by force of tempeſt, or for buying of Victuals or other things, or for repaire of ſhipping, to vſe the ſame libertie in arriuing, ſtaying, and depar<g ref="char:EOLhyphen"/>ting: ſo that they doe no Hoſtile acte in the ſaid Ports, but demeane themſelues honeſt<g ref="char:EOLhyphen"/>ly and quietly, as it becommeth confederates and friends: and ſo that they ſtay and re<g ref="char:EOLhyphen"/>maine not in, or about the ſame Ports any longer then ſhall bee needfull for reparation and prouiſion of neceſſaries, that thereby they be not a hinderance or interruption to the free Commerce and Entercourſe with o<g ref="char:EOLhyphen"/>ther Nations that are in Amitie and Friend<g ref="char:EOLhyphen"/>ſhip: but where occaſion ſhall fall out of ar<g ref="char:EOLhyphen"/>riuall
+<pb facs="tcp:807:15"/>of any greater number of Shipping then before ſpecified, it ſhall not bee lawfull for them to enter, but with the knowledge and allowance of the Prince.</p>
+               </div>
+               <div n="18" type="article">
+                  <head>XVIII.</head>
+                  <p>ANd as the ſaide Kings and Archdukes doe religiouſly promiſe, that they will not at any time yeeld any Warlike ſuc<g ref="char:EOLhyphen"/>cour to any of the others enemies, ſo it is pro<g ref="char:EOLhyphen"/>uided that their Subiects, or the inhabitants in their Realmes, of what nation or qualitie ſoeuer they be, may not vnder colour of En<g ref="char:EOLhyphen"/>tercourſe and Commerce, nor vpon any o<g ref="char:EOLhyphen"/>ther colour or pretence giue any ayde or helpe to the enemies of the ſayd Princes, or of either of them, or conferre, or ſupplie them with money, prouiſions of victuals for warre, Amour, Municion, Ordinance, Artillerie, or other warlike prouiſion, and thoſe which ſhall do the contrary, are to take knowledge, that they ſhall bee puniſhed with the ſeuere puniſhments accuſtomed to be inflicted vp<g ref="char:EOLhyphen"/>on breakers of League, and ſeditious per<g ref="char:EOLhyphen"/>ſons.</p>
+               </div>
+               <div n="19" type="article">
+                  <pb facs="tcp:807:15"/>
+                  <head>XIX.</head>
+                  <p>AND that alſo greater benefite may through this Concord come vnto the Subiects of the moſt renowned King of <hi>England, Scotland, &amp;c.</hi> and of the Arch<g ref="char:EOLhyphen"/>dukes, it is accorded and concluded, that the ſaid moſt renowned King of <hi>England, &amp;c.</hi> and Archdukes ioyntly and ſeuerally, will doe their endeuours, that their Subiects haue not the paſſages ſtopped or letted vnto any of their Ports, Kingdomes and Dominions, that thereby they bee not hindered, freely and without impediment to come and goe, with their Shipping, Merchandiſe, and Car<g ref="char:EOLhyphen"/>riages (the ordinarie Cuſtomes and Tolles being paide) to al the ſaid Ports, Kingdomes, and Dominions: and with the like libertie (when it ſhall ſeeme ſo good vnto them) with other Merchandiſes from thence to depart.</p>
+               </div>
+               <div n="20" type="article">
+                  <head>XX.</head>
+                  <p>BVt as concerning the ancient Treatiſes of entercourſe and Commerce, whereof di<g ref="char:EOLhyphen"/>uers are extant, betwixt the Kingdomes
+<pb facs="tcp:807:16"/>of <hi>England, Scotland,</hi> and <hi>Ireland,</hi> and the Dominions of the Dukes of <hi>Burgundie,</hi> and Princes of the Low Countreyes, which not<g ref="char:EOLhyphen"/>withſtanding during the late troubles haue beene intermitted, and peraduenture in ſome parts impaired; it is agreed by way of proui<g ref="char:EOLhyphen"/>ſion, That they ſhall retaine and haue their auncient forte and authoritie, and that they ſhall bee vſed on both parts, as they were be<g ref="char:EOLhyphen"/>fore the Warres: And if it happen that ei<g ref="char:EOLhyphen"/>ther by both partes or any one part any breach thereof be alleadged, or that the Sub<g ref="char:EOLhyphen"/>iects ſhall complaine that the Conuentions are not obſerued, or that more grieuous bur<g ref="char:EOLhyphen"/>dens then were accuſtomed are impoſed on them, there ſhall bee Deputies appointed on either part which may meete, and calling vn<g ref="char:EOLhyphen"/>to them (if neede be) Merchants experienced in ſuch matters, may friendly Treate, and e<g ref="char:EOLhyphen"/>qually renew, and reſtore ſuch things, as ſhal bee founde either to haue ſlipped out of courſe, or to haue beene changed by the in<g ref="char:EOLhyphen"/>jurie of time, or by corrupt cuſtome and vſe.</p>
+               </div>
+               <div n="21" type="article">
+                  <pb facs="tcp:807:16"/>
+                  <head>XXI.</head>
+                  <p>ANd for that the rights of Commerce which doe enſue by Peace ought not to be made vnfruitfull, as they would be if the Subiects of the moſt renowned King of <hi>England, Scotland &amp;c.</hi> whileſt they haue re<g ref="char:EOLhyphen"/>courſe to and from the Kingdomes and Do<g ref="char:EOLhyphen"/>minions of the ſaid King of <hi>Spaine</hi> and Arch<g ref="char:EOLhyphen"/>dukes, and do remaine there for Commerce, ſhould bee moleſted in the cauſe of Conſci<g ref="char:EOLhyphen"/>ence: therefore to the intent their Traffique may be ſafe, and without danger, as well on Land as on Sea, the ſaid renowned King of <hi>Spaine,</hi> and Archdukes ſhall take care, and prouide, that for the ſaid cauſe of Conſci<g ref="char:EOLhyphen"/>ence they ſhall not be moleſted, nor inquie<g ref="char:EOLhyphen"/>ted in vſing their Trade and Commerce, ſo as they giue not ſcandall vnto others.</p>
+               </div>
+               <div n="22" type="article">
+                  <head>XXII.</head>
+                  <p>ITem, that if it happen any goods or Mer<g ref="char:EOLhyphen"/>chandiſes prohibited to be carried, or con<g ref="char:EOLhyphen"/>ueyed out of the Kingdomes and Domini<g ref="char:EOLhyphen"/>ons of the ſaid moſt renowned Kings and
+<pb facs="tcp:807:17"/>Archdukes, by the Subiects of the one or of the other, that in ſuch caſe the perſon onely offending ſhall incurre puniſhment, and the goods onely prohibited ſhalbe Confiſcated.</p>
+               </div>
+               <div n="23" type="article">
+                  <head>XXIII.</head>
+                  <p>ITem, that the goods of the Subiects dying within the Kingdomes or Dominions of either, ſhall be conſerued to the right heires and ſucceſſours of the deceaſed, the right of a third Perſon alwayes reſerued.</p>
+               </div>
+               <div n="24" type="article">
+                  <head>XXIIII.</head>
+                  <p>ITem, that the Graunts and Priueledges gi<g ref="char:EOLhyphen"/>uen by the Princes to Merchants of either of the Kingdomes comming to their ſaid Kingdomes, and which Priueledges through the Warres haue ceaſed, ſhall from hence<g ref="char:EOLhyphen"/>forth wholly bee reuiued and haue their full force and ſtrength.</p>
+               </div>
+               <div n="25" type="article">
+                  <head>XXV.</head>
+                  <p>ITem, if it ſhall happen hereafter, (which God forbid) that any diſpleaſure doe ariſe, betweene the ſaid moſt renowned Kings,
+<pb facs="tcp:807:17"/>the King of <hi>England, Scotland, France,</hi> and <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> &amp;c. And the King of <hi>Spaine,</hi> or the Archdukes, whereby danger might grow of the interruption of entercourſe and Com<g ref="char:EOLhyphen"/>merce, then the Subiects of either Prince are thereof ſo to be admoniſhed, as that they may haue ſixe Moneths from the time of the monition, to tranſport their Merchandiſes without any arreſt, diſturbance, or hurt in the meane ſeaſon, to be done or giuen vnto them either in their perſons or Merchandiſes.</p>
+               </div>
+               <div n="26" type="article">
+                  <head>XXVI.</head>
+                  <p>ITem, that none of the foreſayd Princes ſhall imbarge or ſtay for their prouiſion in warre, or for any other ſeruice, to the pre<g ref="char:EOLhyphen"/>iudice of the owners, the ſhips of the Sub<g ref="char:EOLhyphen"/>iects of any of the others, being in their Ports, or waters, vnleſſe the Prince of thoſe parties to whom the ſhips doe appertaine, ſhall firſt be admoniſhed thereof, and ſhall alſo yeeld his conſent thereunto.</p>
+               </div>
+               <div n="27" type="article">
+                  <head>XXVII.</head>
+                  <p>ITem, it is accorded, that if during this Peace and Amitie, any thing happen to be
+<pb facs="tcp:807:18"/>attempted, committed or done, againſt the force and effect thereof, by land, ſea, or freſh waters, either by any of the ſaid Princes their Heires and Succeſſors, their Vaſſals, Sub<g ref="char:EOLhyphen"/>iects, or Allies comprehended in this League, or of any the Heires or Succeſſours of thoſe Allies their Subiects, or Vaſſals, yet notwith<g ref="char:EOLhyphen"/>ſtanding this Peace and Amitie, ſhal remaine in his ſtrength and vertue, and the attemp<g ref="char:EOLhyphen"/>ters, and ſuch as doe offend therein onely, and no other, ſhall bee puniſhed for their attempts.</p>
+               </div>
+               <div n="28" type="article">
+                  <head>XXVIII.</head>
+                  <p>ITem, that ſuch as haue beene taken in warre, and are Captiues on either part, although they be condemned to the Gal<g ref="char:EOLhyphen"/>leys ſhall be releaſed and diſmiſſed, the char<g ref="char:EOLhyphen"/>ges of the diet of ſuch as are not in the Gal<g ref="char:EOLhyphen"/>leys being firſt diſcharged, and the ranſomes of ſuch as haue before agreed for the ſame, being by them payed.</p>
+               </div>
+               <div n="29" type="article">
+                  <head>XXIX.</head>
+                  <p>ITem, it is concluded, that all ciuill acti<g ref="char:EOLhyphen"/>ons, which at the time when the laſt warres began, were of validitie, and of force, may
+<pb facs="tcp:807:18"/>yet bee exerciſed and purſued, notwithſtan<g ref="char:EOLhyphen"/>ding any lapſe of time during the ſame war, ſo as no preiudice ſhall bee vnderſtood to haue growen vnto them, by the continuance of the warre, thoſe onely excepted which are already come to the Exchequer or Princes Treaſurie.</p>
+               </div>
+               <div n="30" type="article">
+                  <head>XXX.</head>
+                  <p>ITem, if any controuerſie happen to bee moued in the Kingdomes and Dominions of the one or other of theſe Princes, by any perſon not being Subiect to the ſame Prince, for, or vpon occaſion of any depredations or ſpoyles committed, the cauſe is to be remit<g ref="char:EOLhyphen"/>ted to the Iudge of the iuriſdiction, vnder that Prince againſt whoſe Subiect or Sub<g ref="char:EOLhyphen"/>iects the ſuite is commenced.</p>
+               </div>
+               <div n="31" type="article">
+                  <head>XXXI.</head>
+                  <p>ITem, that if the Hollanders and other con<g ref="char:EOLhyphen"/>federate States, will accept of conditions of pacification with the moſt renowned Archdukes, or their Succeſſors, through the meanes of the moſt renowned king of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> &amp;c. the ſayd Archdukes and their Suc<g ref="char:EOLhyphen"/>ceſſors,
+<pb facs="tcp:807:19"/>will alwayes willingly hearken vnto that which ſhal be propoſed therein, and will deſire that by the helpe of the ſayd moſt re<g ref="char:EOLhyphen"/>nowned King of <hi>England,</hi> &amp;c. they may bee brought to embrace equall co<g ref="char:cmbAbbrStroke">̄</g>ditions, wherin they ſhal wel vnderſtand, how much the ſaid Archdukes doe attribute vnto the authority of the moſt renowned King of <hi>England,</hi> &amp;c. their louing brother.</p>
+               </div>
+               <div n="32" type="article">
+                  <head>XXXII.</head>
+                  <p>ITem, it is concluded and accorded, that in this preſent Treatie of peace, there bee comprehended the Adherents, friends, and confederats, of the forenamed Princes: That is to ſay, on the part of the moſt renow<g ref="char:EOLhyphen"/>ned King of <hi>England, Scotland, France</hi> and <hi>Ireland,</hi> &amp;c. <hi>Rodulphe Romane</hi> Emperour, with the Archdukes of <hi>Austrice,</hi> and the E<g ref="char:EOLhyphen"/>lectors of the Empire, together with the States, and Cities of the Empire, the Duke of <hi>Lorrain,</hi> the duke of <hi>Sauoy,</hi> the dukes of <hi>Brun<g ref="char:EOLhyphen"/>ſwicke, Lunenburg, Meckleburg, Wirtemberg,</hi> the <hi>Landgraue</hi> of <hi>Heſse,</hi> the Marqueſſe of <hi>Ba<g ref="char:EOLhyphen"/>den,</hi> the duke of <hi>Pomerane,</hi> the Prince of <hi>An<g ref="char:EOLhyphen"/>halt,</hi>
+                     <pb facs="tcp:807:19"/>the Earle of <hi>East-freiſland,</hi> the <hi>Cantons</hi> of <hi>Heluetia,</hi> and the <hi>Griſons,</hi> the <hi>Haunſe-cities;</hi> The <hi>French</hi> King, the King of <hi>Poland,</hi> and <hi>Swethland,</hi> the King of <hi>Denmarke,</hi> the duke and State of <hi>Venice,</hi> the duke of <hi>Holst,</hi> the duke of <hi>Florence.</hi>
+                  </p>
+               </div>
+               <div n="33" type="article">
+                  <head>XXXIII.</head>
+                  <p>ON the part of the King of <hi>Spaine</hi> and Archdukes, <hi>Rodulphe</hi> Romane Empe<g ref="char:EOLhyphen"/>rour, and his Brethren, and other Prin<g ref="char:EOLhyphen"/>ces, Archdukes of <hi>Auſtrice,</hi> Princes of the Empire, the Electors, Cities, and States ſub<g ref="char:EOLhyphen"/>iect to the Empire, the <hi>French</hi> King, the King of <hi>Poland</hi> and <hi>Swethland,</hi> the King of <hi>Den<g ref="char:EOLhyphen"/>marke,</hi> the duke and State of <hi>Venice,</hi> the duke of <hi>Sauoy,</hi> the duke of <hi>Bauire,</hi> the duke of <hi>Cleue,</hi> the duke of <hi>Holſtein,</hi> the duke of <hi>Lor<g ref="char:EOLhyphen"/>raine,</hi> the duke of <hi>Parma</hi> and <hi>Placentia,</hi> with his Brother, the Cardinall, the Biſhop and Prouince of <hi>Liege,</hi> the duke of <hi>Florence,</hi> the duke of <hi>Mantua,</hi> the duke of <hi>Mutina,</hi> and <hi>Regium,</hi> the duke of <hi>Vrbine,</hi> the Confederats and Cantons of the <hi>Heluetians,</hi> and <hi>Griſons,</hi> the Cities of the <hi>Haunſe,</hi> the Earles of <hi>East<g ref="char:EOLhyphen"/>frieſland</hi>
+                     <pb facs="tcp:807:20"/>(without notwithſtanding any pre<g ref="char:EOLhyphen"/>iudice of the right by the King of <hi>Spaine,</hi> and Archdukes pretended for their States) the duke and Common wealth of <hi>Genua,</hi> the Common wealth of <hi>Lukes,</hi> the Principall of the Houſe of <hi>Columna,</hi> the Prince of <hi>Oria,</hi> the Principall of the houſe of <hi>Vrſine,</hi> the duke of <hi>Sermoneta,</hi> the Lord of <hi>Monacho,</hi> the Earle of <hi>Mirandula,</hi> the Marques of <hi>Maſſa,</hi> the Earle of <hi>Sala,</hi> the Earle of <hi>Colorno.</hi>
+                  </p>
+               </div>
+               <div n="34" type="article">
+                  <head>XXXIIII.</head>
+                  <p>ITem, it is likewiſe accorded and conclu<g ref="char:EOLhyphen"/>ded, that the ſaide moſt renowned Kings and Princes, IAMES by the grace of God King of <hi>England, Scotland, France,</hi> and <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> &amp;c. And PHILIP King of <hi>Spaine,</hi> &amp;c. <hi>Albert</hi> and <hi>Iſabella Clara Eugenia,</hi> Arch<g ref="char:EOLhyphen"/>dukes, &amp;c. ſhall ſincerely, and faithfully ob<g ref="char:EOLhyphen"/>ſerue and keepe, and procure to be obſerued and kept, by their Subiects, and Inhabitants, all and ſinguler the Capitulations in this pre<g ref="char:EOLhyphen"/>ſent Treatie accorded, and concluded, nei<g ref="char:EOLhyphen"/>ther ſhall they directly or indirectly infringe the ſame, or conſent that the ſame ſhalbe in<g ref="char:EOLhyphen"/>fringed,
+<pb facs="tcp:807:20"/>fringed, directly, or indirectly, by any of their Subiects or Inhabitants, and they ſhal ratifie, authoriſe and confirme, all and ſingular the Conuentions as before accorded and conclu<g ref="char:EOLhyphen"/>ded by Letters Pattents, ſubſcribed with their owne hands, and ſealed with their great Seales in ſufficient, auaileable, and effectuall forme, and the ſame ſo formed and made, ſhall vpon the firſt occaſion deliuer or cauſe to be deliuered faithfully, really, and effectu<g ref="char:EOLhyphen"/>ally; And they ſhall make the like promiſe to obſerue all and ſingular the premiſſes, in the word of a King and Prince, and ſhall alſo ſweare to obſerue and performe the ſame by oath vpon the holy Euangeliſt, (whenſoeuer they ſhall, by either part be thereunto requi<g ref="char:EOLhyphen"/>red.) And the ſaid Kings and Archdukes ſhall take care that this preſent Peace and Amitie be publiſhed in places accuſtomed, ſo ſoone as conueniently the ſame may be.</p>
+               </div>
+            </div>
+            <div type="articles_of_trade">
+               <pb facs="tcp:807:21"/>
+               <head>
+                  <g ref="char:leaf">❧</g> Articles concerning Merchandize of high <hi>Ger<g ref="char:EOLhyphen"/>manie</hi> to be tranſported into <hi>Spaine, free of the Impoſition of</hi> 30. <hi>in the</hi> 100.</head>
+               <div n="1" type="article">
+                  <p>
+                     <seg rend="decorInit">T</seg>HE more to expreſſe obſer<g ref="char:EOLhyphen"/>uance towardes the moſt re<g ref="char:EOLhyphen"/>nowned King of <hi>England,</hi> &amp;c. and for the commoditie of his Maieſties Kingdomes, the Il<g ref="char:EOLhyphen"/>luſtrious and excellent the Conſtable of <hi>Ca<g ref="char:EOLhyphen"/>ſtile,</hi> &amp;c. Procurator ſpeciall of his Cath. Ma<g ref="char:EOLhyphen"/>ieſtie, hearing how much the Subiects of the moſt renowned king of <hi>England, Scotland, France</hi> and <hi>Ireland,</hi> doe deſire to be permit<g ref="char:EOLhyphen"/>ted to vent the merchandiſe of <hi>Germanie</hi> in <hi>Spaine,</hi> doeth by theſe preſents promiſe, that it ſhall be lawfull for the ſayd Subiects of the moſt renowned King of <hi>England,</hi> &amp;c. to conuey merchandiſe out of high <hi>Germanie,</hi> being ſubiect to the Impoſition of thirtie in the hundred, and which without payment of the ſayd Impoſition could not be caried into <hi>Spaine,</hi> and the ſame merchandiſe hauing
+<pb facs="tcp:807:21"/>firſt been conueyed into <hi>England,</hi> and there diſcharged, &amp; cuſtomed, from thence after to be tranſported into <hi>Spaine,</hi> or other the Do<g ref="char:EOLhyphen"/>minions of the King of <hi>Spaine,</hi> without pay<g ref="char:EOLhyphen"/>ment of thirtie in the hundred, ſo as the ſaid merchandiſe hath payd nothing to the Hol<g ref="char:EOLhyphen"/>landers, and Zelanders, and other enemies of the King of <hi>Spaine,</hi> and the Archdukes: and ſo as they be conueyed in the proper ſhips of the moſt renowned King of <hi>England,</hi> &amp;c. or his Subiects, and not in others of any other Prince, or Nation, or of other whomeſoeuer. And to the effect that fraude herein may bee auoyded, the Merchandiſes of high <hi>Germa<g ref="char:EOLhyphen"/>nie,</hi> which are to bee tranſported foorth of <hi>England, Scotland,</hi> and <hi>Ireland,</hi> to the King<g ref="char:EOLhyphen"/>domes and Dominions of the King of <hi>Spaine</hi> and the Archdukes, ſhall bee Regiſtred and marked with the Seale or Marke of the Towne from whence they ſhall bee laden, and certified by a Certificate from the Magi<g ref="char:EOLhyphen"/>ſtrate of the ſaid Towne or Citie, teſtifying that the ſaid Merchandiſes were diſcharged in <hi>England, Scotland</hi> or <hi>Ireland,</hi> and that they haue paide Cuſtome there, as well vpon pe<g ref="char:EOLhyphen"/>rill
+<pb facs="tcp:807:22"/>of the Kings Maieſties indignation, as alſo vpon paine of loſſe of their Offices and o<g ref="char:EOLhyphen"/>ther more grieuous puniſhments, to bee in<g ref="char:EOLhyphen"/>flicted at the Kings pleaſure, vpon the Magi<g ref="char:EOLhyphen"/>ſtrates of the Townes and Cities of the Kingdomes, of the ſaid moſt renowned King of <hi>England,</hi> &amp;c. which are to certifie the vnlading of Ships, and to teſtifie of the Re<g ref="char:EOLhyphen"/>giſtring thereof, if they ſhall herein commit any fraude.</p>
+               </div>
+               <div n="2" type="article">
+                  <head>II.</head>
+                  <p>ITem, that whatſoeuer merchandizes of high <hi>Germany,</hi> ſhall not bee diſcharged in <hi>England, Scotland</hi> and <hi>Ireland,</hi> and yet ſhall be conueyed into <hi>Spaine,</hi> and other King<g ref="char:EOLhyphen"/>doms of the King of <hi>Spaine</hi> as ſuch merchan<g ref="char:EOLhyphen"/>diſes, ſhall be confiſcated, and bee reputed as good Prize.</p>
+               </div>
+            </div>
+            <div type="articles_of_religious_moderation">
+               <pb facs="tcp:807:22"/>
+               <head>¶ Three Articles concer<g ref="char:EOLhyphen"/>ning a moderation to be had <hi>in the proceedings of the</hi> Inquiſition, toward the Kings Maieſties Sub<g ref="char:EOLhyphen"/>iects, in SPAINE.</head>
+               <div n="1" type="article">
+                  <p>
+                     <seg rend="decorInit">F</seg>Irſt, if they haue exceeded in any thing before their entrance into <hi>Spaine,</hi> they ſhall not be called in<g ref="char:EOLhyphen"/>to the <hi>INQVISITION</hi> for the ſame, neither ſhall bee moleſted for any of thoſe things ſo committed, out of <hi>Spaine,</hi> neither ſhall any Account for the ſame bee demaunded of them.</p>
+               </div>
+               <div n="2" type="article">
+                  <head>II.</head>
+                  <p>ALſo if they will not enter into the Churches, no man ſhall compell them thereunto, but if they doe enter into the ſame, they ſhall per<g ref="char:EOLhyphen"/>forme thoſe dueties &amp; reuerence, which are vſed towards the holy Sacrament of the Altar being there, and if they ſhall ſee the holy Sacrament comming towards them in any ſtreete, they ſhall doe reuerence by bowing their knees, or elſe to paſſe aſide by ſome other ſtreete, or turne into ſome houſe.</p>
+               </div>
+               <div n="3" type="article">
+                  <pb facs="tcp:807:23"/>
+                  <head>III.</head>
+                  <p>ANd if any of the ſaid perſons being Maſters, or Maſters Mates, or any other Officers of ſhips, which bee not their owne, doe exceed in any matter herein, the <hi>INQVISITION</hi> proceeding againſt them by Office, is onely to ſe<g ref="char:EOLhyphen"/>queſter their owne proper goods, and are to leaue free the ſhips and all other goods not be<g ref="char:EOLhyphen"/>longing to the Offenders; the ſame is to be vnderſtood for the Traders and Factors.</p>
+                  <pb facs="tcp:807:23"/>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
